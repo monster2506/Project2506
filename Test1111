@@ -1,0 +1,14 @@
+public class Calc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ 
+		int n=10;
+		int m=20;
+		int c=n+m;
+		System.out.println("The sum is "+ c);
+		
+		
+	}
+
+}
